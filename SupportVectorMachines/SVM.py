@@ -1,3 +1,7 @@
+# Support Vector Machines (SVM):
+
+# Description: SVM is a machine learning algorithm used for classification or regression tasks; in trading, it can be used for predicting market trends.
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import datasets
